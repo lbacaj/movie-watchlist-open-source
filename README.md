@@ -7,6 +7,9 @@ A web application to track movies you want to watch and have watched, with movie
 ## Live Demo
 [mymoviewatch.com](https://www.mymoviewatch.com/)
 
+## Video Tutorial
+[Full step-by-step build guide on YouTube](https://youtu.be/7NioPNaskeY)
+
 ## Features
 
 - **Smart Movie Addition**: Add movies using natural language or URLs
@@ -95,7 +98,7 @@ This app can be deployed to any Node.js hosting service. For deployment examples
 
 ## Author
 
-Built by [Louie Bacaj](https://github.com/lbacaj)
+Built by [Louie Bacaj](https://github.com/lbacaj) with help from Claude Code and ChatGPT
 
 ## License
 
